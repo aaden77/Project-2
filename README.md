@@ -14,24 +14,39 @@ The Personal Budget Tracker is a menu-driven Python application that helps users
 The main features of this system include:
 
 ● Creating a monthly budget plan.
+
 ● Allocating funds to spending categories.
+
 ● Recording income.
+
 ● Recording expenses.
+
 ● Tracking category spending.
+
 ● Displaying remaining budget per category.
+
 ● Generating spending summaries.
+
 ● Monitoring savings goals.
+
 ● Providing overspending warnings.
+
 ● Saving and loading budget information using CSV files.
 
 Program Flow:
 
-User launches the program.
-Main menu is displayed.
-User selects an option.
-Program performs the selected task.
-Data is stored in dictionaries and lists.
-User may save data to a CSV file.
-Program continues until Exit is selected.
+1. User launches the program.
+   
+2. Main menu is displayed.
+   
+3. User selects an option.
+   
+4. Program performs the selected task.
+   
+5. Data is stored in dictionaries and lists.
+   
+6. User may save data to a CSV file.
+   
+7. Program continues until Exit is selected.
 
 
