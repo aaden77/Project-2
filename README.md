@@ -33,6 +33,7 @@ The main features of this system include:
 
 ● Saving and loading budget information using CSV files.
 
+
 Program Flow:
 
 1. User launches the program.
@@ -48,5 +49,24 @@ Program Flow:
 6. User may save data to a CSV file.
    
 7. Program continues until Exit is selected.
+   
+
+Programming Concepts Used:
+
+Functions were used to organize the program into smaller, reusable sections.
+
+Loops were used to repeatedly request input until valid data was entered.
+
+Conditionals like if, elif, and else statements were used to validate user input and control menu selection.
+
+Dictionaries were used to store budget and category information.
+
+Lists were used to store transaction records.
+
+Input validation ensures users enter appropriate values.
+
+try/except blocks were used to prevent the program from crashing when invalid data is entered.
+
+CSV file handling was implemented to save and load transaction data.
 
 
