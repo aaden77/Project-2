@@ -114,3 +114,30 @@ Invalid text input	     abc	            Invalid input message	       Invalid inp
 Empty/Boundary value	      0	           Error message displayed	         Error message displayed	       Pass
 
 
+Challenges and Lessons Learned
+
+One challenge encountered was implementing input validation while ensuring the program did not crash when users entered invalid data so to solve this, I used try/except blocks and validation checks.
+
+I learnt how functions, dictionaries, lists, loops, file handling, and exception handling can be combined to develop a complete budgeting application.
+
+AI Assistance Disclosure and References
+
+AI Tool Used: Microsoft Copilot
+
+Purpose of Assistance:
+
+Explaining the different Python programming concepts and syntax I used
+
+Reviewing the code I wrote for errors and improvement
+
+Assisting with README structure and format
+
+Declaration of Authorship
+
+I declare that this work is my own, that any AI assistance is fully disclosed in this README, and that I can explain every part of the submitted code.
+
+Member Contribution Report
+
+All the work is mine.
+
+
