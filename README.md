@@ -69,4 +69,48 @@ try/except blocks were used to prevent the program from crashing when invalid da
 
 CSV file handling was implemented to save and load transaction data.
 
+How to Run the Program
+
+Python Version: Python 3.12
+
+1. Open the project folder.
+   
+2. Run the file Budget Management System.py.
+   
+3. The main menu will appear.
+
+4. Select 1 to set a monthly budget.
+
+5. Select 2 to set a savings goal.
+
+6. Select 3 to allocate category budgets.
+
+7. Select 4 to add income.
+
+8. Select 5 to add expenses.
+
+9. Use options 6-9 to view reports and summaries.
+
+10. Use 10 to save transactions and 11 to load previous transactions.
+
+11. Select 12 to exit the program.
+    
+
+Required Libraries
+CSV: To save and load transaction data from CSV files
+
+Manual Testing and Validation
+
+Test Case	            Input	              Expected Output	                Actual Output	             Result
+
+Valid menu choice	        1	             Budget option opens	          Budget option opened	         Pass
+
+Valid income amount	    1500	            Income recorded	             Income recorded	               Pass
+
+Invalid income amount    -50	           Error message displayed	      Error message displayed	         Pass
+
+Invalid text input	     abc	            Invalid input message	       Invalid input message	         Pass
+
+Empty/Boundary value	      0	           Error message displayed	         Error message displayed	       Pass
+
 
