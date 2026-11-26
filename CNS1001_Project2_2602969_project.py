@@ -540,6 +540,8 @@ def main():
 
     while running:
 
+        print("\n")
+
         # Displays menu
         print("1. Set Monthly Budget")
         print("2. Set Savings Goal")
